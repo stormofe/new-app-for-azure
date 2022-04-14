@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stormofe/new-app-for-azure/static/css/main.073c9b0a.css",
+    "main.js": "/stormofe/new-app-for-azure/static/js/main.eefd009a.js",
+    "static/js/787.446d91d0.chunk.js": "/stormofe/new-app-for-azure/static/js/787.446d91d0.chunk.js",
+    "static/media/logo.svg": "/stormofe/new-app-for-azure/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stormofe/new-app-for-azure/index.html",
+    "main.073c9b0a.css.map": "/stormofe/new-app-for-azure/static/css/main.073c9b0a.css.map",
+    "main.eefd009a.js.map": "/stormofe/new-app-for-azure/static/js/main.eefd009a.js.map",
+    "787.446d91d0.chunk.js.map": "/stormofe/new-app-for-azure/static/js/787.446d91d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eefd009a.js"
+  ]
+}
